@@ -1,0 +1,20 @@
+# מפתחות — לעולם לא
+.env
+
+# הדאטה של המשתמש — פרטית, לא עולה לשום מקום
+business-context.md
+lead-settings.md
+.cache/
+outputs/
+research/
+
+# תיקיית הצילום — לא חלק מהחבילה
+demo/
+.filming/
+
+# מערכת
+.DS_Store
+node_modules/
+
+# התסריט — פנימי, לא לריפו הציבורי
+*תסריט*.md
